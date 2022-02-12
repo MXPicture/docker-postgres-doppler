@@ -1,1 +1,1 @@
-# docker-postgres-doppler
+# PostgreSQL Docker Image incl. doppler integration
